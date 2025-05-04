@@ -3,3 +3,7 @@
 ```Python
 print("This is a code block!")
 ```
+- [x] Create a header
+- [x] Add an image
+- [x] Insert a code block
+- [x] Complete the tast list
